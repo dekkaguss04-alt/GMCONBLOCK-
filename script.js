@@ -332,7 +332,7 @@ function buildCard(prod) {
     `Halo GM CONBLOCK, saya tertarik dengan produk *${prod.name}*. Boleh minta info lebih lanjut?`
   );
   const waLink =
-    `https://wa.me/6281234567890?text=${waMsg}`;
+    `https://wa.me/6281238978954?text=${waMsg}`;
   return `
     <div class="product-card"
     data-cat="${prod.category}"
