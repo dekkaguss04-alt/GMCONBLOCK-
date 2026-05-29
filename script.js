@@ -274,16 +274,20 @@ const PRODUCTS = [
 
     prices:[
         {
-            ukuran:'30x30x120',
-            kirim:350000
+            ukuran:'70x120| TB 15',
+            kirim:805000
         },
         {
-            ukuran:'40x40x120',
-            kirim:450000
+            ukuran:'80x120| TB 15',
+            kirim:905000
         },
         {
-            ukuran:'60x60x120',
-            kirim:700000
+            ukuran:'100x120| TB 15',
+            kirim:1100000
+        }'
+        {
+            ukuran:'120x120| TB 20',
+            kirim:1350000
         }
     ]
 }
