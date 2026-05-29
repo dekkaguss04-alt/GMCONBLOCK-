@@ -284,7 +284,7 @@ const PRODUCTS = [
         {
             ukuran:'100x120| TB 15',
             kirim:1100000
-        }'
+        },
         {
             ukuran:'120x120| TB 20',
             kirim:1350000
