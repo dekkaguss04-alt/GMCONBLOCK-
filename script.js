@@ -870,7 +870,7 @@ function initKontakForm() {
     const waMsg = encodeURIComponent(
       `Halo GM CONBLOCK!\n\n*Nama:* ${name}\n*Keperluan:* ${subject || 'Pertanyaan Umum'}\n*Pesan:* ${message}${phone ? '\n*Telepon:* ' + phone : ''}`
     );
-    window.open(`https://wa.me/6281234567890?text=${waMsg}`, '_blank');
+    window.open(`https://wa.me/6285858967150?text=${waMsg}`, '_blank');
     showToast('Pesan dikirim via WhatsApp!', 'success');
     form.reset();
   });
